@@ -1,0 +1,15 @@
+C:\Users\Burak\Documents\GitHub\whiledersi\bin\Debug\net6.0\whiledersi.exe
+C:\Users\Burak\Documents\GitHub\whiledersi\bin\Debug\net6.0\whiledersi.deps.json
+C:\Users\Burak\Documents\GitHub\whiledersi\bin\Debug\net6.0\whiledersi.runtimeconfig.json
+C:\Users\Burak\Documents\GitHub\whiledersi\bin\Debug\net6.0\whiledersi.dll
+C:\Users\Burak\Documents\GitHub\whiledersi\bin\Debug\net6.0\whiledersi.pdb
+C:\Users\Burak\Documents\GitHub\whiledersi\obj\Debug\net6.0\whiledersi.csproj.AssemblyReference.cache
+C:\Users\Burak\Documents\GitHub\whiledersi\obj\Debug\net6.0\whiledersi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Documents\GitHub\whiledersi\obj\Debug\net6.0\whiledersi.AssemblyInfoInputs.cache
+C:\Users\Burak\Documents\GitHub\whiledersi\obj\Debug\net6.0\whiledersi.AssemblyInfo.cs
+C:\Users\Burak\Documents\GitHub\whiledersi\obj\Debug\net6.0\whiledersi.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Documents\GitHub\whiledersi\obj\Debug\net6.0\whiledersi.dll
+C:\Users\Burak\Documents\GitHub\whiledersi\obj\Debug\net6.0\refint\whiledersi.dll
+C:\Users\Burak\Documents\GitHub\whiledersi\obj\Debug\net6.0\whiledersi.pdb
+C:\Users\Burak\Documents\GitHub\whiledersi\obj\Debug\net6.0\whiledersi.genruntimeconfig.cache
+C:\Users\Burak\Documents\GitHub\whiledersi\obj\Debug\net6.0\ref\whiledersi.dll
